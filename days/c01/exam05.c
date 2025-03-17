@@ -14,8 +14,3 @@ void	ft_putstr(char *str)
     }
 }
 
-int main()
-{
-    char str[]="Anass el nigga";
-    ft_putstr(str);
-}
